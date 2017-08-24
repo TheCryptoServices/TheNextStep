@@ -1,0 +1,9 @@
+Building TheNextStepCoin
+
+See doc/readme-qt.rst for instructions on building TheNextStepCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TheNextStepCoin.
+
+See doc/build-*.txt for instructions on building TheNextStepCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TheNextStepCoin.
