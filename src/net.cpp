@@ -1229,7 +1229,9 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-    {"thenextstepcoin1.dyndns.org", "thenextstepcoin1.dyndns.org"},
+    {"thenextstepcoin2.dyndns.org", "thenextstepcoin2.dyndns.org"},
+    {"miningpool.thruhere.net", "miningpool.thruhere.net"},
+    {"miningpool2.thruhere.net", "miningpool2.thruhere.net"},
    };
 
 void ThreadDNSAddressSeed(void* parg)
